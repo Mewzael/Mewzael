@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Immanuel Billy</h1>
 <h3 align="center">An Undergraduate Student Majoring Cyber Security at Binus University</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/immanuel billy christian santoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immanuel billy christian santoso" height="30" width="40" /></a>
-<a href="https://instagram.com/immanuel.bcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immanuel.bcs" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/immanuel-billy-christian-santoso-6051b2140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immanuel billy christian santoso" height="40" width="40" /></a>
+<a href="https://instagram.com/immanuel.bcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immanuel.bcs" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages/Frameworks I understand: </h3>
