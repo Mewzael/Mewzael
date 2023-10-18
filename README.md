@@ -14,5 +14,5 @@
 <p align="center">
 <code><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></code>
 <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-<code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="https://w7.pngwing.com/pngs/26/933/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png" height="40"></a></code>
+<code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="https://code.visualstudio.com/assets/branding/app-icon.png" height="40"></a></code>
 </p>
