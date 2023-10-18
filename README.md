@@ -1,7 +1,39 @@
-<h1 align="center">Hi 👋, I'm Immanuel Billy</h1>
-<h3 align="center">An Undergraduate Student Majoring Cyber Security at Binus University</h3>
+<!-- Description about me -->
+<h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-<h3 align="center">Connect with me:</h3>
+Hello! <br />
+I am <b>Immanuel Billy C.S</b> on online goes by the name 'Mewzael'🕵🏼‍♂️ <br />
+I am from <strong>Surakarta, Indonesia</strong> <br />
+I'm just a guy like to Observe and Learn new things 🖥️ <br />
+If you are interested in a guy with a good vibe who loves Table Tennis and Random Stuff 📚, <b>I'm Happy to Help</b> <br />
+<br/><br/> 
+
+### 🧐 More About Me:
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <ul>
+        <li>
+          🔭 I’m currently studying at **Binus University**
+        </li>
+        <li>
+          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Mewzael?tab=repositories)
+        </li>
+        <li>
+          💬 Ask me about anything tech related, I am happy to help!;
+        </li>
+        <li>
+          🏓 When I am free, I like to play Table Tennis (If there are other people interested);
+        </li>
+        <li>
+          📝 Checkout my (soon) [Page](https://www.mewzael.com/) 
+        </li>
+    </td>
+  </tr>
+</table>
+<br><br><br>
+
+<h3 align="center"> 📫Feel free to contact me on:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/immanuel-billy-christian-santoso-6051b2140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immanuel billy christian santoso" height="40" width="40" /></a>
 <a href="https://instagram.com/immanuel.bcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immanuel.bcs" height="40" width="40" /></a>
