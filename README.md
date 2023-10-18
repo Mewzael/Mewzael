@@ -9,9 +9,9 @@ If you are interested in a guy with a good vibe who loves Table Tennis and Rando
 <br/><br/> 
 
 <h2 align="center"> 🧐 More About Me: </h2>
-<table align="center"; style="border: none;">
-  <tr align="center"; style="border: none;">
-    <td align="center"; style="border: none;">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <ul>
         <li>
           🔭 I’m currently studying at **Binus University**
@@ -31,7 +31,7 @@ If you are interested in a guy with a good vibe who loves Table Tennis and Rando
     </td>
   </tr>
 </table>
-<br><br><br>
+<br>
 
 <h3 align="center"> 📫Feel free to contact me on:</h3>
 <p align="center">
