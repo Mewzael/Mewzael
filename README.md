@@ -8,10 +8,10 @@ I'm just a guy like to Observe and Learn new things 🖥️ <br />
 If you are interested in a guy with a good vibe who loves Table Tennis and Random Stuff 📚, <b>I'm Happy to Help</b> <br />
 <br/><br/> 
 
-### 🧐 More About Me:
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
+<h2 align="center"> 🧐 More About Me: </h2>
+<table align="center"; style="border: none;">
+  <tr align="center"; style="border: none;">
+    <td align="center"; style="border: none;">
       <ul>
         <li>
           🔭 I’m currently studying at **Binus University**
